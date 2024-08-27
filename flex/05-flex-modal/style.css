@@ -1,3 +1,42 @@
+/* My code here */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.modal {
+  padding: 10px;
+}
+
+.top {
+  display: flex;
+  gap: 10px;
+}
+
+.header {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.close-button {
+  margin-left: auto;
+}
+
+.middle {
+  display: flex;
+  margin-left: 51px;
+  margin-right: 25px;
+}
+
+.bottom {
+  margin-left: 51px;
+  margin-top: 20px;
+}
+
+/* My code ends here */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 html, body {
