@@ -2,6 +2,33 @@
 you'll learn about it later. */
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap');
 
+/* My code */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  padding: 8px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.notifications {
+  margin-left: auto;
+}
+
+/* End of my code */
+
 body {
   margin: 0;
   background: #eee;
