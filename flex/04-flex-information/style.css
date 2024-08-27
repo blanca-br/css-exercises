@@ -1,3 +1,31 @@
+/* My code here */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.item {
+  width: 200px;
+  text-align: center;
+}
+
+/* My code ends here */
+
+
 body {
   font-family: 'Courier New', Courier, monospace;
 }
