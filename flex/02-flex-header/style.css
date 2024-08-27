@@ -1,8 +1,40 @@
+/* My code */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
-
   /* My code */
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* My code */
+.left-links ul {
+  display: flex;
+  gap: 15px;
+}
+
+/* My code */
+.right-links ul {
+  display: flex;
+  gap: 15px;
+}
+
+/* My code */
+.left-links {
+  margin-right: auto;
+}
+
+/* My code */
+.right-links {
+  margin-left: auto;
 }
 
 .logo {
